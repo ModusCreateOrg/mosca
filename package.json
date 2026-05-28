@@ -62,7 +62,7 @@
     "sinon": "~1.7.0",
     "sinon-chai": "~2.8.0",
     "supertest": "~1.2.0",
-    "tmp": "0.0.24",
+    "tmp": "0.2.6",
     "uglify-js": "^2.8.28",
     "underscore": "^1.7.0",
     "ws": "^1.0.1"
